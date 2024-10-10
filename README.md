@@ -8,7 +8,7 @@ A simple discord bot template for sending xbox requests (shit discord base i wou
 
     ```bash
     git clone https://github.com/obaqzcheats/xboxlink
-    cd xboxsearch
+    cd xboxlink
     ```
 
 2. Install dependencies:
